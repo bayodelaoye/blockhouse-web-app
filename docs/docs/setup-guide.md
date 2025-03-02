@@ -25,25 +25,3 @@
    ```
 
 4. Visit `http://localhost:3000` to view the project.
-
-**To run the Docusaurus documentation:**
-
-1. To view the Dinosaurs documentation:
-
-   ```bash
-      cd docs
-   ```
-
-2. Install dependencies for documentation:
-
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-
-   ```bash
-   npm run start
-   ```
-
-4. Visit `http://localhost:3000` to view the documentation.
