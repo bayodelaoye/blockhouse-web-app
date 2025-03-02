@@ -52,6 +52,12 @@ export default function CryptoPriceList({ search, resetSearch }) {
 
   return (
     <>
+      <div className="flex justify-center items-center pb-8 pt-5">
+        <p className="text-center">
+          Note: Wait 1 minute before pressing the "Refresh Prices" button for
+          the prices to be updated.
+        </p>
+      </div>
       <div>
         <div className="flex justify-center items-center flex-col">
           <button
